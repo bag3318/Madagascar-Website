@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+	src: url(../fonts/Segoe_Print.ttf);
+	font-family: Segoe_Print;
+}
+body {
+	font-family: Segoe_Print;
+}
+#tabs-1 {
+	height: 100px;
+	font-family: Segoe_Print;
+}
+#tabs-2 {
+	font-family: Segoe_Print;
+	font-size: 20px;
+}
+.span1 {
+	z-index: 6; float: right;clear: right;width: 500px;
+}
+h1 {
+	text-align: center;
+}
+.imperialism {
+	font-family: Segoe_Print;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-thumb:active {
+	background-color: #717171;
+}
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+.imgm {
+	float: right;
+}
+.img1 {
+	border: 1px solid #000000;
+}
+.p1 {
+	float: left;
+	z-index: 8px;
+	clear: left;
+	width: 500px;
+}
+.p2 {
+	float: right;
+	clear: right;
+	width: 600px;
+}
+h3 {
+	font-family: Segoe_Print;
+}
+code { 
+	text-align: center;
+}
