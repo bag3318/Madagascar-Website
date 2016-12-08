@@ -4,7 +4,7 @@ $(document).ready(function () {
 	$("#btn1").on("click", function () {
 		$("#start").fadeOut(888);
 		$( "code" ).slideUp( 888 ).delay( 888 );
-  		$( "#accordion" ).fadeIn( 1000 );
+  		$( "#accordion" ).fadeIn( 1500 );
 		$("#accordion").accordion({
 			collapsible: true,
 			heightStyle: "content",
@@ -14,6 +14,5 @@ $(document).ready(function () {
 			collapsible: true,
 			heightStyle: "fill"
 		});
-		$("#accordion").tooltip();
 	});
 });
