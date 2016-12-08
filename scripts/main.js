@@ -9,4 +9,5 @@ $(document).ready(function() {
 		collapsible: true,
 		heightStyle: "fill"
 	});
+	$("#btn").button();
 });
