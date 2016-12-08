@@ -1,7 +1,7 @@
 // jQuery Document			
 $(document).ready(function () {
 
-	$("#btn").button();
+	// $("#btn").button();
 	$("#btn1").button();
 	$("#btn1").on("click", function () {
 		$("#start").fadeOut(888);
