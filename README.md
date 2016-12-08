@@ -25,9 +25,9 @@
 - [x] Tabs
 - [x] Images
 - [x] Information
-- [x] Code to English Comments
-- [ ] Captions for Images
-- [ ] More Writing
+- [x] Captions for Images
+- [x] Loading Bar
+- [ ] Code to English Comments (coming soon)
 
 ## How to Execute
 
