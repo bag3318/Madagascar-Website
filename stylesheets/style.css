@@ -16,7 +16,10 @@ body {
 	font-size: 20px;
 }
 .span1 {
-	z-index: 6; float: right;clear: right;width: 500px;
+	z-index: 6; 
+	float: right;
+	clear: right;
+	width: 500px;
 }
 h1 {
 	text-align: center;
