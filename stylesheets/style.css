@@ -62,6 +62,9 @@ h3 {
 code { 
 	text-align: center;
 }
-#btn {
+#btn, #btn1 {
 	font-family: SegoePrint;
+}
+#accordion {
+	display: none;
 }
