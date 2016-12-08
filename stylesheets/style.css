@@ -65,13 +65,20 @@ h3 {
 }
 code { 
 	text-align: center;
+	font-weight: bolder;
 }
 #btn, #btn1 {
 	font-family: SegoePrint;
+}
+div {
+	line-height: 150%;
 }
 #accordion {
 	display: none;
 }
 figcaption {
 	color: #929292;
+}
+code > p {
+	line-height: -5;
 }
