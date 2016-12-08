@@ -25,6 +25,7 @@
 - [x] Tabs
 - [x] Images
 - [x] Information
+- [x] Code to English Comments
 
 ## How to Execute
 
