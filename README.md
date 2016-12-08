@@ -28,11 +28,29 @@
 - [x] Code to English Comments
 - [ ] Captions for Images
 - [ ] More Writing
+
 ## How to Execute
 
 1. Open the the test folder
 2. Open the index.html file with Google Chrome
 3. Done!
+
+## How to Use
+
+1. Press the reload button if needed (only to see the scrollbar)
+2. Press the start button
+3. Click on any one of the accordion sectional tabs
+4. Explore!   
+
+## Plugins Used
+
++ [jQuery][1]
+- [jQuery UI][2]
+* [PACE Loading Bar][3]
+
+[1]: http://www.jquery.com/  "jQuery"
+[2]: http://www.jqueryui.com/  "jQuery UI"
+[3]: http://github.hubspot.com/pace/docs/welcome/  (PACE Loading Bar)
 
 Browser Compatibility
 ---------------------
