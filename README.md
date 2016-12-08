@@ -26,7 +26,8 @@
 - [x] Images
 - [x] Information
 - [x] Code to English Comments
-
+- [ ] Captions for Images
+- [ ] More Writing
 ## How to Execute
 
 1. Open the the test folder
