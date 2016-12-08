@@ -17,7 +17,7 @@
 
 ## Description
 
-> This web app is a project for history focused on Nationalism and Imperialism in Madagascar 
+<span>This web app is a project for history focused on Nationalism and Imperialism in Madagascar</span>
 
 ## Features
 
