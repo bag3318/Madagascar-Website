@@ -28,6 +28,7 @@
 - [x] Loading Bar
 - [x] Fully Functioning jQuery Animations
 - [x] Beautiful ASCII Text Art
+- [x] Custom Scrollbar
 - [ ] Code to English Comments (coming soon)
 
 ## How to Execute
