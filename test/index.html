@@ -2,7 +2,7 @@
 <html lang="en"> <!-- then we make an html tag to start our document, we also define that the language we will be using is english -->
 	<head> <!-- then we MUST define a head tag, this is where all the references to our scripts, stylesheets, and SOME images go -->
 		<meta charset="UTF-8"> <!-- this might look confusing but this is the character set we will be using, it is hard to explain so I won't go into detail -->
-		<title></title> <!-- this is the title of the page, it will appear on the tab, there is nothing inside this tag because we will make a scrolling title using javascript -->
+		<title><!-- title will be inserted via JavaScript --></title> <!-- this is the title of the page, it will appear on the tab, there is nothing inside this tag because we will make a scrolling title using javascript -->
 		<link rel="icon" type="image/ico" href="../images/favicon.ico" alt="favicon for tab" /> <!-- this is pretty straight forward, this is the icon that will apear on the tab of the page -->
 		<!-- below are our references to our various scripts and stylesheets that we will be using -->
 		<link rel="stylesheet" type="text/css" href="../stylesheets/pace.css" /> <!-- this is the styling for the loading bar -->
@@ -18,7 +18,6 @@
 	<body> <!-- here is our body tag where all our content will go -->
 		<h1>Nationalism and Imperialism in Madagascar</h1>  <!-- here is our header 1 tag, this will be at the top of the page in larger text -->
 		<hr/> <!-- here we define a horizontal line below the header and above the accordion -->
-		
 		<div id="accordion"> <!-- here we define an accordion -->
 			<h3>Nationalism</h3> <!-- here is our first header for our accordion (its a header 3) -->
 			<div> <!-- define the accordion body for the first section -->
@@ -147,7 +146,11 @@
 			</center>
 		</div>
 		<center>
-			<img type="img/gif" src="../images/moving_flag.gif" class="dynamic" />
+			<button id="btn2">go back</button>
+		</center>
+		<br/>
+		<center>
+			<button id="btn"><img type="img/gif" src="../images/moving_flag.gif" class="dynamic" /></button>
 		</center>
 		<!--<button id="btn">reload</button>-->
 		<script type="text/javascript" src="../scripts/initiation.js"></script>
