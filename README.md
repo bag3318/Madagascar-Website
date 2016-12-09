@@ -28,6 +28,8 @@
 - [x] Information
 - [x] Captions for Images
 - [x] Loading Bar
+- [x] Fully Functioning jQuery Animations
+- [x] Beautiful ASCII Text Art
 - [ ] Code to English Comments (coming soon)
 
 ## How to Execute
