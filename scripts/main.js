@@ -11,8 +11,7 @@ $(document).ready(function () {
 			active: false
 		});
 		$("#tabs").tabs({
-			collapsible: true,
-			heightStyle: "fill"
+			collapsible: true
 		});
 	});
 });

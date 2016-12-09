@@ -5,14 +5,14 @@
 	font-family: Segoe_Print; /*and here is what we will name the font when we are going to be using it */
 } /*close the class */
 body {
-	font-family: Segoe_Print;
+	font-family: Segoe_Print; /* for the html body tag, make the main font segoe print, the one we defined above */
 }
 #tabs-1 {
-	height: 100px;
+	height: 1100px;
 	font-family: Segoe_Print;
 }
 #tabs-2 {
-	height: 100px;
+	height: 1000px;
 	font-family: Segoe_Print;
 	font-size: 20px;
 }
@@ -21,6 +21,9 @@ body {
 	float: right;
 	clear: right;
 	width: 500px;
+}
+#fig {
+	float: right;
 }
 h1 {
 	text-align: center;
@@ -84,4 +87,32 @@ code {
 }
 code > p {
 	line-height: -5;
+}
+.f1 {
+	width: 198px;
+}
+img[class="dynamic"] {
+	width: 400px;
+	height: 400px;
+}
+.map {
+	width: auto;
+	height: auto;
+}
+.invasion, .f2 {
+	width: auto;
+	height: auto;
+	z-index: 8;
+	clear: right;
+	float: right;
+}
+.f2 {
+	width: 300px;
+}
+.invasion_chart {
+	width: 500px;
+	height: auto;
+}
+.invasions {
+	font-family: Segoe_Print;
 }
