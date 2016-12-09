@@ -116,3 +116,27 @@ img[class="dynamic"] {
 .invasions {
 	font-family: Segoe_Print;
 }
+
+#tabs-3 {
+	font-family: Segoe_Print;
+}
+.map1 {
+	font-family: Segoe_Print;
+}
+.culture > p {
+	font-family: Segoe_Print;
+	font-size: 30px;
+}
+.lamba {
+	float: right;
+	clear: right;
+	width: 100px;
+	height: 100px;
+}
+.lambaC {
+	width: 100px;
+	float: right;
+	clear: right;
+	font-size: 20px;
+	font-family: Segoe_Print;
+}
