@@ -17,7 +17,6 @@ $(document).ready(function () {
 			collapsible: true
 		});
 		$("#btn2").delay(1008).fadeIn(888);
-
 	});
 	$("#btn2").click(function() {
 		$(this).fadeOut(888);
