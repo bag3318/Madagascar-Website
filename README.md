@@ -40,7 +40,7 @@
 - -----------------------
 - [x] How did nationalism influence the development of the country? 
 - [x] How did the country fight off foreign invaders? 
-- [x] If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries hamper the country's expansion attempts. 
+- [ ] ~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries hamper the country's expansion attempts.~
 
 ## How to Execute
 
