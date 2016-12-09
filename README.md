@@ -1,6 +1,5 @@
 [comment]: # (Start README.md markdown script)
 <!-- 
-
   __  __           _                                      
  |  \/  |         | |                                     
  | \  / | __ _  __| | __ _  __ _  __ _ ___  ___ __ _ _ __ 
@@ -8,8 +7,7 @@
  | |  | | (_| | (_| | (_| | (_| | (_| \__ \ (_| (_| | |   
  |_|  |_|\__,_|\__,_|\__,_|\__, |\__,_|___/\___\__,_|_|   
                             __/ |                         
-                           |___/                          
-                                                                                                                        
+                           |___/                                                                                                                                                 
 -->
 
 # Madagascar Nationalism and Imperialism Web Page
@@ -69,7 +67,7 @@ Version Info
 + 1.xx1: Initiated code base
 - 1.xx2: Updated code base
 * 1.xx3: Added images
-
++ 1.xx4: (Current Version) Added Effects
 ________
 
 > **_Enjoy!_**
