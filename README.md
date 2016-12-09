@@ -1,23 +1,24 @@
+[comment]: # (Start README.md markdown script)
 <!-- 
 
-.___  ___.      ___       _______       ___       _______      ___           _______.  ______     ___      .______      
-|   \/   |     /   \     |       \     /   \     /  _____|    /   \         /       | /      |   /   \     |   _  \     
-|  \  /  |    /  ^  \    |  .--.  |   /  ^  \   |  |  __     /  ^  \       |   (----`|  ,----'  /  ^  \    |  |_)  |    
-|  |\/|  |   /  /_\  \   |  |  |  |  /  /_\  \  |  | |_ |   /  /_\  \       \   \    |  |      /  /_\  \   |      /     
-|  |  |  |  /  _____  \  |  '--'  | /  _____  \ |  |__| |  /  _____  \  .----)   |   |  `----./  _____  \  |  |\  \----.
-|__|  |__| /__/     \__\ |_______/ /__/     \__\ \______| /__/     \__\ |_______/     \______/__/     \__\ | _| `._____|
+  __  __           _                                      
+ |  \/  |         | |                                     
+ | \  / | __ _  __| | __ _  __ _  __ _ ___  ___ __ _ _ __ 
+ | |\/| |/ _` |/ _` |/ _` |/ _` |/ _` / __|/ __/ _` | '__|
+ | |  | | (_| | (_| | (_| | (_| | (_| \__ \ (_| (_| | |   
+ |_|  |_|\__,_|\__,_|\__,_|\__, |\__,_|___/\___\__,_|_|   
+                            __/ |                         
+                           |___/                          
                                                                                                                         
-
 -->
 
 # Madagascar Nationalism and Imperialism Web Page
 
 ![Madagascar Flag](images/madagascar_flag_2.png "Madagascar Flag")
 
-
 ## Description
 
-<span>This web app is a project for history focused on Nationalism and Imperialism in Madagascar</span>
+<span>This web app is a project for history focused on Nationalism and Imperialism in Madagascar.</span>
 
 ## Features
 
@@ -61,6 +62,14 @@ Browser Compatibility
 |not compatible :(|6.1.6 or later|34.0.1847 or later|1.3 or later|8.xx or later|
 [//]: # (end table)
 
+Version Info
+-------------
++ 1.xx1: Initiated code base
+- 1.xx2: Updated code base
+* 1.xx3: Added images
+
 ________
 
 > **_Enjoy!_**
+
+[comment]: # (End README.md markdown script)

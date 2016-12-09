@@ -1,9 +1,9 @@
-@charset "UTF-8";
+@charset "UTF-8"; /* here we define our character set = to Unicode Text Format 8 Bit, just like in our HTML page */
 /* CSS Document */
-@font-face {
-	src: url(../fonts/Segoe_Print.ttf);
-	font-family: Segoe_Print;
-}
+@font-face { /* define our font face for the font we will be using */
+	src: url(../fonts/Segoe_Print.ttf); /* here is the directory of the font */
+	font-family: Segoe_Print; /*and here is what we will name the font when we are going to be using it */
+} /*close the class */
 body {
 	font-family: Segoe_Print;
 }
@@ -78,6 +78,9 @@ div {
 }
 figcaption {
 	color: #929292;
+}
+code {
+	line-height: 0;
 }
 code > p {
 	line-height: -5;
