@@ -140,3 +140,15 @@ img[class="dynamic"] {
 	font-size: 20px;
 	font-family: Segoe_Print;
 }
+.painting {
+	width: 400px;
+	height: auto;
+	float: right;
+	clear: right;
+	z-index: 10;
+}
+.fig5 {
+	float: right; 
+	clear: right;
+	width: 400px;
+}
