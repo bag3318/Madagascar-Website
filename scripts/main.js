@@ -26,6 +26,6 @@ $(document).ready(function () {
 	});
 	$("#btn3").button();
 	$("#btn3").click(function() {
-		$("ol > li > a").toggle("slide", 888);
+		$("ol > li > span").toggle("slide", 888);
 	});
 });
