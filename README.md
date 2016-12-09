@@ -40,6 +40,13 @@
 - [x] How did nationalism influence the development of the country? 
 - [x] How did the country fight off foreign invaders? 
 - [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries hamper the country's expansion attempts.~~
+- [x] Something unique or interesting about the culture of the Country.
+- [x] A List of the sources you used in finding information- Minimum of 4 sources
+- [x] A current flag of the Country
+- [x] Information about the current government including background information about the Current leader/leaders
+- [x] How the Country was affected by Imperialism/Nationalism. Use the Conquered/Conquerors questions as a guide.
+- [x] If the country was conquered by a foreign country, answer the following questions
+- [x] A current map of the Country 
 
 ## How to Execute
 
