@@ -68,6 +68,7 @@ Version Info
 - 1.xx2: Updated code base
 * 1.xx3: Added images
 + 1.xx4: (Current Version) Added Effects
+
 ________
 
 > **_Enjoy!_**
