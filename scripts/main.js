@@ -24,4 +24,8 @@ $(document).ready(function () {
 		$("#accordion").slideUp(888).delay(888);
   		$("code").delay(888).slideDown(1508);		
 	});
+	$("#btn3").button();
+	$("#btn3").click(function() {
+		$("ol > li > a").toggle("slide", 888);
+	});
 });

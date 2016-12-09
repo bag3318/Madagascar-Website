@@ -8,8 +8,8 @@ body {
 	font-family: Segoe_Print; /* for the html body tag, make the main font segoe print, the one we defined above */
 }
 #tabs-1 {
-	height: 1100px;
-	font-family: Segoe_Print;
+	height: 1100px; /* set the height of the first tab to 1100 pixels */
+	font-family: Segoe_Print; /* set the font family to segoe print */
 }
 #tabs-2 {
 	height: 1000px;
@@ -151,4 +151,9 @@ img[class="dynamic"] {
 	float: right; 
 	clear: right;
 	width: 400px;
+}
+
+ol > li > a {
+	display: none;
+	font-size: 13px;
 }
