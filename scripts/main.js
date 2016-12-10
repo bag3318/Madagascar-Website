@@ -28,7 +28,7 @@ $(document).ready(function() { // here we declare our document ready function; t
         btn2.delay(1008).fadeIn(888);
     }); // close the click function
     btn2.on("click", function() { // now when button 2 is clicked ...
-		$("#hidden1").fadeOut(8888);
+		$("#hidden1").fadeOut(889);
         $(this).fadeOut(888); // fade button 2 (this) out
         start.delay(1008).fadeIn(888); // then make the start button delay 1008 milliseconds and fade in in 888 milliseconds
         accordion.slideUp(888).delay(888); // now we must hide the accordion by sliding it up and then delay 888 milliseconds
