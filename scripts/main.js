@@ -42,11 +42,11 @@ $(document).ready(function() { // here we declare our document ready function; t
         autoOpen: false,
         show: {
             effect: "blind",
-            duration: 1000
+            duration: 1008
         },
         hide: {
             effect: "explode",
-            duration: 1000
+            duration: 1008
         }
     });
     $("#opener").on("click", function() {
