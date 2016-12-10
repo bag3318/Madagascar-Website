@@ -1,5 +1,6 @@
 // JavaScript Document
 var pageReload = (function(){
+	"use strict";
 	function reload() {
 		window.location.reload(true);
 	}
