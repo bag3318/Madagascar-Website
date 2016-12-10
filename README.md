@@ -31,7 +31,7 @@
 - [x] Custom Scrollbar
 - [ ] Code to English Comments (coming soon)
 
-## Rubrik
+## Rubric
 
 - [x] Which country invaded? 
 - [x] When did they invade? 
