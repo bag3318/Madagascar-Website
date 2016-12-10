@@ -39,7 +39,7 @@
 - [x] How did the foreign invader permanently change the country? When did the country gain their independence? 
 - [x] How did nationalism influence the development of the country? 
 - [x] How did the country fight off foreign invaders? 
-- [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries hamper the country's expansion attempts.~~
+- [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries 			hamper the country's expansion attempts.~~
 - [ ] ~~Which foreign countries did they invade?~~
 - [ ] ~~When did the country start their foreign expansion?~~ 
 - [ ] ~~Why did the country expand into foreign countries?~~
