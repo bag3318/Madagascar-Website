@@ -31,7 +31,7 @@
 - [x] Custom Scrollbar
 - [ ] Code to English Comments (coming soon)
 
-## Rubric
+## Rubric Checklist
 
 - [x] Which country invaded? 
 - [x] When did they invade? 
@@ -51,6 +51,9 @@
 - [x] How the Country was affected by Imperialism/Nationalism. Use the Conquered/Conquerors questions as a guide.
 - [x] If the country was conquered by a foreign country, answer the following questions
 - [x] A current map of the Country 
+- [x] Professional
+- [x] Accurate
+- [x] Complete
 
 ## How to Execute
 
