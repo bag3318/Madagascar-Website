@@ -1,6 +1,7 @@
 // jQuery Document			
 $(document).ready(function () {
 	// $("#btn").button();
+	"use strict";
 	$("#btn1").button();
 	$("#btn2").button();
 	$("#btn2").hide();
