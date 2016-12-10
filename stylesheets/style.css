@@ -91,8 +91,8 @@ code > p {
 	width: 198px;
 }
 img[class="dynamic"] {
-	width: 400px;
-	height: 400px;
+	width: 350px;
+	height: 350px;
 }
 .map {
 	width: auto;
@@ -159,6 +159,9 @@ ol > li > span {
 #btn2 {
 	font-family: Segoe_Print;
 }
-a {
-	color: #0000ff;
+.right8 {
+	float: right;
+}
+#opener {
+	font-family: Segoe Print;
 }
