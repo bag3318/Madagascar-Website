@@ -34,10 +34,10 @@ $(document).ready(function() { // here we declare our document ready function; t
         $(this).fadeOut(887); // fade button 2 (this) out
 		$("#opener").fadeOut(888)
 		$(".dynamic").fadeOut(889);
-        start.delay(890).fadeIn(887); // then make the start button delay 1008 milliseconds and fade in in 888 milliseconds
+        start.delay(890).fadeIn(887); // then make the start button delay 887 milliseconds and fade in in 888 milliseconds
         accordion.slideUp(888).delay(888); // now we must hide the accordion by sliding it up and then delay 888 milliseconds
-        code.delay(888).slideDown(1508); // now slide down the code but first delay 888 milliseconds	
-			$("#opener").fadeIn(888)
+        code.delay(888).slideDown(1508); // now slide down the code but first delay 888 milliseconds then slide down in 1508 milliseconds
+		$("#opener").fadeIn(888)
 		$(".dynamic").fadeIn(889);	
     }); // close the click function
     btn3.click(function() { // now when button 3 is clicked ...
