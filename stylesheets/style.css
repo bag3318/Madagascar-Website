@@ -173,3 +173,12 @@ ol > li > span {
 	height:0;
 	margin-top:-15px;
 }
+.iab {
+	font-family: Segoe Print;
+}
+.smallWidth {
+	width: 650px;
+}
+.floatRight {
+	float: right;
+}
