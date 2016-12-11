@@ -43,20 +43,21 @@ $(document).ready(function() { // here we declare our document ready function; t
     btn3.click(function() { // now when button 3 is clicked ...
         span.toggle("slide", 888); // toggle the links in the citations accordion section in 888 milliseconds
     }); // close the click function
-    $("#opener").button();
-    $("#dialog").dialog({
-        autoOpen: false,
-        show: {
-            effect: "blind",
-            duration: 1008
-        },
-        hide: {
-            effect: "explode",
-            duration: 1008
-        }
-    });
+	// here is the function for the disclaimer
+    $("#opener").button(); // define that the disclaimer button is a jQuery button
+    $("#dialog").dialog({ // start the disclaimer function
+        autoOpen: false, // here we make sure the dialog box doesn't automatically open
+        show: { // however; when it does open...
+            effect: "blind", // do the blind effect
+            duration: 1008 // for 1008 milliseconds
+        }, // close this object
+        hide: { // now the hide object
+            effect: "explode", // make it explode for the hide effect
+            duration: 1008 // and set the duration to 1008 milliseconds
+        } // close the object
+    }); // close the function
+	// below is just initiating the disclaimer when it is open
     $("#opener").on("click", function() {
         $("#dialog").dialog("open");
     });
-
 }); // close the document ready function
