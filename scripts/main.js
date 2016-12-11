@@ -13,7 +13,7 @@ $(document).ready(function() { // here we declare our document ready function; t
     btn2.hide(); // hide the button 2 on the webpage
     btn1.on("click", function() { // when button 1 is clicked
 		start.fadeOut(887); // make the start button fade out
-		$("#opener").fadeOut(888)
+		$("#opener").fadeOut(888);
 		$(".dynamic").fadeOut(889);
         code.slideUp(888).delay(888); // then take the text art (the one that says madagascar), which is code and slide it up to hide it, then delay 888 milliseconds
         accordion.delay(888).slideDown(1508); // now the accordion will slide down in 1508 milliseconds but first we need to delay it another 888 milliseconds
@@ -26,18 +26,18 @@ $(document).ready(function() { // here we declare our document ready function; t
             collapsible: true // now lets make sure that the tabs are collapsible
         }); // close the definer
         btn2.delay(890).fadeIn(888);
-		$("#opener").fadeIn(888)
+		$("#opener").fadeIn(888);
 		$(".dynamic").fadeIn(889);
     }); // close the click function
     btn2.on("click", function() { // now when button 2 is clicked ...
 		
         $(this).fadeOut(887); // fade button 2 (this) out
-		$("#opener").fadeOut(888)
+		$("#opener").fadeOut(888);
 		$(".dynamic").fadeOut(889);
         start.delay(890).fadeIn(887); // then make the start button delay 887 milliseconds and fade in in 888 milliseconds
         accordion.slideUp(888).delay(888); // now we must hide the accordion by sliding it up and then delay 888 milliseconds
         code.delay(888).slideDown(1508); // now slide down the code but first delay 888 milliseconds then slide down in 1508 milliseconds
-		$("#opener").fadeIn(888)
+		$("#opener").fadeIn(888);
 		$(".dynamic").fadeIn(889);	
     }); // close the click function
     btn3.click(function() { // now when button 3 is clicked ...
