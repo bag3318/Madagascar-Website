@@ -87,8 +87,8 @@ Browser Compatibility
 |not compatible :(|6.1.6 or later|34.0.1847 or later|1.3 or later|8.xx or later|
 [//]: # (end table)
 
-Version Info
--------------
+Version Info & History
+----------------------
 + 1.xx1: Initiated code base
 - 1.xx2: Updated code base
 * 1.xx3: Added images
