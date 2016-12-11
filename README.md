@@ -1,4 +1,5 @@
 [comment]: # (Start README.md markdown script)
+
 <!-- 
   __  __           _                                      
  |  \/  |         | |                                     
@@ -10,7 +11,8 @@
                            |___/                                                                                                                                                 
 -->
 
-# Madagascar Nationalism and Imperialism Web Page
+Madagascar Nationalism and Imperialism Web Page
+===============================================
 
 ![Madagascar Flag](images/madagascar_flag_2.png "Madagascar Flag")
 
