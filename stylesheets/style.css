@@ -165,3 +165,11 @@ ol > li > span {
 #opener {
 	font-family: Segoe Print;
 }
+.hr1 {
+	height:0;
+	margin-bottom:-20px;
+}
+.hr2 {
+	height:0;
+	margin-top:-15px;
+}
