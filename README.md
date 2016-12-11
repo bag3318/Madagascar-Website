@@ -29,7 +29,7 @@
 - [x] Fully Functioning jQuery Animations
 - [x] Beautiful ASCII Text Art
 - [x] Custom Scrollbar
-- [ ] Code to English Comments (coming soon)
+- [x] Code to English Comments (Only on Select Files: index.html, main.js, style.css)
 
 ## Rubric Checklist
 
