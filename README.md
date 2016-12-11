@@ -39,11 +39,6 @@
 - [x] How did the foreign invader permanently change the country? When did the country gain their independence? 
 - [x] How did nationalism influence the development of the country? 
 - [x] How did the country fight off foreign invaders? 
-- [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries 			hamper the country's expansion attempts.~~
-- [ ] ~~Which foreign countries did they invade?~~
-- [ ] ~~When did the country start their foreign expansion?~~ 
-- [ ] ~~Why did the country expand into foreign countries?~~
-- [ ] ~~How did the country change the areas they conquered? When and why did the country leave their foreign territories?~~
 - [x] Something unique or interesting about the culture of the Country.
 - [x] A List of the sources you used in finding information - Minimum of 4 sources
 - [x] A current flag of the Country
@@ -54,6 +49,11 @@
 - [x] Professional
 - [x] Accurate
 - [x] Complete
+- [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries 			hamper the country's expansion attempts.~~
+- [ ] ~~Which foreign countries did they invade?~~
+- [ ] ~~When did the country start their foreign expansion?~~ 
+- [ ] ~~Why did the country expand into foreign countries?~~
+- [ ] ~~How did the country change the areas they conquered? When and why did the country leave their foreign territories?~~
 
 ## How to Execute
 
