@@ -10,11 +10,11 @@ $(document).ready(function() { // here we declare our document ready function; t
     var accordion = $("#accordion"); // define accordion
     var tabs = $("#tabs"); // define tabs
     var span = $("ol > li > span"); // define links
-	$("#hidden1").hide();
     btn2.hide(); // hide the button 2 on the webpage
     btn1.on("click", function() { // when button 1 is clicked
-		$("#hidden1").fadeIn();
-        start.fadeOut(888); // make the start button fade out
+		start.fadeOut(887); // make the start button fade out
+		$("#opener").fadeOut(888)
+		$(".dynamic").fadeOut(889);
         code.slideUp(888).delay(888); // then take the text art (the one that says madagascar), which is code and slide it up to hide it, then delay 888 milliseconds
         accordion.delay(888).slideDown(1508); // now the accordion will slide down in 1508 milliseconds but first we need to delay it another 888 milliseconds
         accordion.accordion({ // now we define that our accordion is an accordion
@@ -25,14 +25,20 @@ $(document).ready(function() { // here we declare our document ready function; t
         tabs.tabs({ // now we define that our tabs are actually tabs
             collapsible: true // now lets make sure that the tabs are collapsible
         }); // close the definer
-        btn2.delay(1008).fadeIn(888);
+        btn2.delay(890).fadeIn(888);
+		$("#opener").fadeIn(888)
+		$(".dynamic").fadeIn(889);
     }); // close the click function
     btn2.on("click", function() { // now when button 2 is clicked ...
-		$("#hidden1").fadeOut(889);
-        $(this).fadeOut(888); // fade button 2 (this) out
-        start.delay(1008).fadeIn(888); // then make the start button delay 1008 milliseconds and fade in in 888 milliseconds
+		
+        $(this).fadeOut(887); // fade button 2 (this) out
+		$("#opener").fadeOut(888)
+		$(".dynamic").fadeOut(889);
+        start.delay(890).fadeIn(887); // then make the start button delay 1008 milliseconds and fade in in 888 milliseconds
         accordion.slideUp(888).delay(888); // now we must hide the accordion by sliding it up and then delay 888 milliseconds
-        code.delay(888).slideDown(1508); // now slide down the code but first delay 888 milliseconds		
+        code.delay(888).slideDown(1508); // now slide down the code but first delay 888 milliseconds	
+			$("#opener").fadeIn(888)
+		$(".dynamic").fadeIn(889);	
     }); // close the click function
     btn3.click(function() { // now when button 3 is clicked ...
         span.toggle("slide", 888); // toggle the links in the citations accordion section in 888 milliseconds
@@ -52,4 +58,5 @@ $(document).ready(function() { // here we declare our document ready function; t
     $("#opener").on("click", function() {
         $("#dialog").dialog("open");
     });
+
 }); // close the document ready function
