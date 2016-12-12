@@ -15,6 +15,7 @@ Madagascar Nationalism and Imperialism Web Page
 ===============================================
 
 ![Madagascar Flag](images/madagascar_flag_2.png "Madagascar Flag")
+![Madagascar Colonial Flag](images/madagscar_flag_1.gif "Madagascar Colonial Flag")
 
 ## Description
 
