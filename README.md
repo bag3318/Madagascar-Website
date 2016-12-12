@@ -66,9 +66,10 @@ Madagascar Nationalism and Imperialism Web Page
 ## How to Use
 
 1. Press the reload button if needed (only to see the scrollbar)
-2. Press the start button
-3. Click on any one of the accordion sectional tabs
-4. Explore!   
+2. See the disclaimer if needed
+3. Press the start button
+4. Click on any one of the accordion sectional tabs
+5. Explore!   
 
 ## Plugins Used
 
