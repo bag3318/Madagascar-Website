@@ -4,7 +4,7 @@ var scroller = (function titleScroller(text) {
 	document.title = text;
     setTimeout(function () {
         titleScroller(text.substr(1) + text.substr(0, 1));
-    }, 88); // 500
+    }, 88); 
 	function init() {
 		var element = window;
 		element.addEventListener("load", function() {
