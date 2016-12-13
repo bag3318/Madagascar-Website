@@ -32,7 +32,7 @@ Madagascar Nationalism and Imperialism Web Page
 - [x] Fully Functioning jQuery Animations
 - [x] Beautiful ASCII Text Art
 - [x] Custom Scrollbar
-- [x] Code to English Comments (Only on Select Files: index.html, main.js, style.css)
+- [x] Code to English Comments (Only on Select Files: index.html, main.js, style.css, scrolling_title.js)
 
 ## Rubric Checklist
 

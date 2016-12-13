@@ -5,13 +5,13 @@ var scroller = (function titleScroller(text) { // define a master function set t
     setTimeout(function () { // set the timeout
         titleScroller(text.substr(1) + text.substr(0, 1)); 
     }, 88);  // 88 milliseconds between timeouts
-	function init() {
-		var element = window;
-		element.addEventListener("load", function() {
-			var script = scroller();
-			script.titleScroller(text);
-		});
-	}
+	function init() { // delcare initiation function
+		var element = window; // set the variable element = to window
+		element.addEventListener("load", function() { // add an event listener to element
+			var script = scroller(); // set a new variable, script, = to the scroller global variable
+			script.titleScroller(text); // execute the function
+		}); // close method
+	} // close the init function    
 	return function returnAPI(api) {
 		return {
 			init1: init,
