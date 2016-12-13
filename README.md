@@ -63,6 +63,9 @@ Madagascar Nationalism and Imperialism Web Page
 1. click the green clone or download button
 2. then click download
 3. extrac the .zip file
+	a. double click on the zip file (or single click if in the downloads folder on the dock)
+	b. if the computer asks what program you want to open the .zip file with, choose archive utility  
+	c. the files will then be extracted
 4. see how to execute below
 
 ## How to Execute
