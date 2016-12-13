@@ -12,10 +12,10 @@ var scroller = (function titleScroller(text) { // define a master function set t
 			script.titleScroller(text); // execute the function
 		}); // close method
 	} // close the init function    
-	return function returnAPI(api) {
-		return {
-			init1: init,
-			titleScroller: titleScroller(text)
+	return function returnAPI(api) { // define our api
+		return { // return
+			init1: init, // this function
+			titleScroller: titleScroller(text) // and this function
 		};
 	};
-}("...Madagascar Imperialism and Nationalism..."));
+}("...Madagascar Imperialism and Nationalism...")); // pass in text value

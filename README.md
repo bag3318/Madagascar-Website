@@ -32,7 +32,7 @@ Madagascar Nationalism and Imperialism Web Page
 - [x] Fully Functioning jQuery Animations
 - [x] Beautiful ASCII Text Art
 - [x] Custom Scrollbar
-- [x] Code to English Comments (Only on Select Files: index.html, main.js, style.css, scrolling_title.js)
+- [x] Code to English Comments (Only on Select Files: index.html, main.js, style.css, scrolling_title.js, reload.js)
 
 ## Rubric Checklist
 
@@ -52,7 +52,7 @@ Madagascar Nationalism and Imperialism Web Page
 - [x] Professional
 - [x] Accurate
 - [x] Complete
-- [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries 			hamper the country's expansion attempts.~~
+- [ ] ~~If the country attempted to expand, when and where did they expand, and why did it fail? How did the neighboring countries hamper the 				country's expansion attempts.~~
 - [ ] ~~Which foreign countries did they invade?~~
 - [ ] ~~When did the country start their foreign expansion?~~ 
 - [ ] ~~Why did the country expand into foreign countries?~~
