@@ -58,6 +58,13 @@ Madagascar Nationalism and Imperialism Web Page
 - [ ] ~~Why did the country expand into foreign countries?~~
 - [ ] ~~How did the country change the areas they conquered? When and why did the country leave their foreign territories?~~
 
+## How to Download
+
+1. click the green clone or download button
+2. then click download
+3. extrac the .zip file
+4. see how to execute below
+
 ## How to Execute
 
 1. Open the the test folder
