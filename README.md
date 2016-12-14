@@ -103,8 +103,8 @@ Version Info & History
 + 1.xx1 - Initiated code base
 - 1.xx2 - Updated code base
 * 1.xx3 - Added images
-+ 1.xx4 - (Current Version) Added Effects
-+ 1.xx5 - 
++ 1.xx4 - Added Effects
++ 1.xx5 - (Current) Finalized Everything 
 ________
 
 > **_Enjoy!_**
