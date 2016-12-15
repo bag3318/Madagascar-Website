@@ -1,4 +1,4 @@
-	// jQuery Document			
+// jQuery Document			
 $(document).ready(function() { // here we declare our document ready function; this makes it so that the script will run only AFTER the page loads.
     "use strict"; // define a use strict statement to interperet errors much better than without it.
     // below we define all our variables
